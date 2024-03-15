@@ -22,11 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#env
-MONGODB_URI=mongodb+srv://roger123456:roger123456@cluster0.fwdhhvb.mongodb.net/
-port=4000
-JWT_SECRET="BSF01$_"
-
 # Dependency directories
 node_modules/
 jspm_packages/
